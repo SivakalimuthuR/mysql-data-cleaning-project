@@ -21,7 +21,7 @@ The dataset contains layoffs records with attributes like company name, location
 Setup & Usage
 🔹 Clone the Repository
 bash
-git clone https://github.com/your-repo-link-here.git
+(https://github.com/SivakalimuthuR/mysql-data-cleaning-project.git)
 🔹 Import the Data into MySQL
 1️⃣ Open MySQL Workbench or any MySQL interface. 2️⃣ Load the dataset (layoffs_staging).
 
